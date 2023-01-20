@@ -1,2 +1,1 @@
-# PrepCourse-H
-Este repositorio es otra práctica del módulo 2
+Otra práctica de como crear un repositorio  desde github y luego clornarlo a mi computadora
